@@ -2,6 +2,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Home from "./pages/Home"
 import Navbar from "./components/Navbar"
 // onlayn dokon
+// onlayn dokon
+// onlayn dokon
 
 function App() {
   return (
