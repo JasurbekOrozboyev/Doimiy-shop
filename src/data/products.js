@@ -110,5 +110,13 @@ export const products = [
     price: 57000,
     image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/bpNF0B65Nexn67iFmcMoiwMWPLsuA5efEz9kZuvC.png.webp",
     flowLink: "https://100k.uz/oqim/684659"
+  },
+  {
+    id: 15,
+    title: "Erkaklar qo'l soati Rolex Datejust 38-45 mm, Zanglamaydigan Po'lat",
+    description: "Korpus qoplash: IPG/PVD purkash, korroziyaga qarshi va hipoalerjenik qoplama Mexanizm: Kvarts Ishning diametri: 38-45 mm Bilaguzuk uzunligi: 200-240 mm (kerak bo'lganda kamayadi) Tasma materiali: Zanglamaydigan po'lat Terish: Porlashga qarshi qoplama bilan, bardoshli",
+    price: 57000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/nx6TFKz0aOXR6TXkRD8NJ9gVqhQIGhSP9EJeBwsJ.jpg.webp",
+    flowLink: "https://100k.uz/oqim/684935"
   }
 ]
