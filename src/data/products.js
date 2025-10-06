@@ -223,5 +223,77 @@ export const products = [
     price: 99000,
     image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/FrYNmsaZegubqDV9hm5Nqdgjnn5VkSEIzar9D7Eb.jpg.webp",
     flowLink: "https://100k.uz/oqim/685434"
+  },
+  {
+    id: 26,
+    category: "Soatlar",
+    title: "Qol soati Richard Mile x Ferrari RM UP-01",
+    description: "Qalinligi: Bor-yo‘g‘i 1.75 mm, bu uni dunyodagi eng yupqa mexanik soatlardan biriga aylantiradi. Korpusi materiali: Titan Grade 5 - bu yengil, mustahkam va korroziyaga chidamli material. Kalibri: RMUP-01 mexanik qo‘lda yig‘iladigan mexanizm bilan jihozlangan. Zarbga chidamlilik: 5000G gacha bo‘lgan zarbga bardosh bera oladi, bu uning ajoyib mexanik mustahkamligini ko‘rsatadi. Suvga chidamliligi: 10 metr. Cheklangan sonli ishlab chiqarish: Faqat 150 dona ishlab chiqarilgan, bu uning eksklyuzivligini oshiradi. ",
+    price: 229000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/eBI5OuboVA52jaZ0wvECflj872FdUsnNK35jZYXZ.jpg.webp",
+    flowLink: "https://100k.uz/oqim/688288"
+  },
+  {
+    id: 27,
+    category: "Uy buyumlari",
+    title: "Kompakt po'lat seyf 'Seyf c17' - himoya va xavfsizlik uchun",
+    description: "Model: C-17 Turi: Kompakt uy yoki ofis seyfi Material: Mustahkam po‘lat, zangga chidamli kukunli bo‘yoq O‘lchamlari: Tashqi: 170 x 230 x 170 mm, Ichki: 160 x 220 x 120 mm Qulf turi: Elektron raqamli klaviatura, zaxira uchun 2 ta mexanik kalit Vazni: 3.5 – 5 kg",
+    price: 249000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/GjVOoaW70o7rud4AMBeVF205LMprCWWN6T2eHQ6l.jpg.webp",
+    flowLink: "https://100k.uz/oqim/688287"
+  },
+  {
+    id: 28,
+    category: "Soatlar",
+    title: "Erkaklar uchun soat va zanjir toʻplami - Mukammal sovgʻa",
+    description: "Erkaklar uchun zamonaviy va stilga ega soat va zanjir toʻplami. Ishonchli va bardoshli materialdan tayyorlangan. Vaqtni aniq koʻrsatish funksiyasi bilan jihozlangan soat. Chiroyli dizayn - har qanday kiyimga mos keladi. Sifatli materiallar - uzoq muddat xizmat qiladi. Ideal sovgʻa erkaklar uchun.",
+    price: 89000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/mvYgAOhEr5JwYpQ8AlVTTdIQWWbFvEwEyw4Jzyoc.jpg.webp",
+    flowLink: "https://100k.uz/oqim/688175"
+  },
+  {
+    id: 29,
+    category: "Aksessuarlar",
+    title: "Quyoshda qorayadigan kompyuter va telefon uchun MAYBACH 3 tasi 1 da kozoynak",
+    description: "Ob'ektiv balandligi: 5,5 sm Himoya darajasi: 2 toifa (yorug'lik o'tkazuvchanligi 43 - 18%) Quloqchun uzunligi: 14 sm Ob'ektiv materiali: Plastik linzalar",
+    price: 79000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/5iCbxgIjH3Kl8dXDoUjuotv6YQJCdhExpoKV4FEO.jpg.webp",
+    flowLink: "https://100k.uz/oqim/688173"
+  },
+  {
+    id: 30,
+    category: "Quloqchinlar",
+    title: "Simsiz sensorli quloqchinlar Pods 3, Android va iPhone uchun",
+    description: " A2DP, AVRCP, Hands free, Eshitish vositasi profillarini qo'llab-quvvatlaydi - Ishlash vaqti 5 soat - Uslub: quloqchinlar - Qo'shimcha turi: qo'shimchasiz - Asosiy parametrlar: Mikrofonli Bluetooth eshitish vositasi - Turi: dinamik - Rang: oq - Simsiz: Bluetooth 5.0 ni qo'llab-quvvatlaydi",
+    price: 127000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/UYgDQUTF5Kyt73r9ev2KpvuDs8aF7BFUcUjjeS0P.png.webp",
+    flowLink: "https://100k.uz/oqim/688172"
+  },
+  {
+    id: 31,
+    category: "Quloqchinlar",
+    title: "Simsiz quloqchinlar i18 TWS Bluetooth 5.0 - Sifatli ovoz va qulay sensorli boshqaruv",
+    description: "Sifatli ovoz va baland ovozli chiqish. Batareya quvvati: 300 mA/soat. Ishlash vaqti: 4 soat. Bluetooth 5.0 texnologiyasi orqali tezkor ulanish.",
+    price: 180000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/5ffc2b04a6834599575258.png.webp",
+    flowLink: "https://100k.uz/oqim/688171"
+  },
+  {
+    id: 32,
+    category: "Aksessuarlar",
+    title: "Telefon uchun universal silikon holder",
+    description: "Material: ABS va silikon Diameter: 7 sm, kengayishi 9 sm gacha Kabel uzunligi: 20 sm gacha uzayadi Foydali jihatlari Qo'llarning bandligi: Telefoningiz xavfsiz joylashadi va qo'llaringiz dam oladi Ko'ngilochar foydalanish: Yotib ko'rish uchun ideal, film va seriallarni qulay holatda tomosha qiling Ko'p vazifali yordamchi: Ish joyida va uyda video qo'ng'iroqlar, onlayn darslar va ish uchrashuvlari uchun ajoyib gadjet Har qanday yosh uchun mos: Bolalar ham kattalar ham bemalol foydalanishi mumkin Har qanday joyda foydalanish: Yotoqxonada, oshxonada, ish stolida yoki hatto mashinada",
+    price: 59000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/0l7699vDVPAipUi9W8VRjK0skfm2lN3SNeiPvBW8.png.webp",
+    flowLink: "https://100k.uz/oqim/688170"
+  },
+  {
+    id: 33,
+    category: "Aksessuarlar",
+    title: "Proyektor HY320: Kichik va Quvvatli Full HD Wi-Fi Proyektor",
+    description: "Full HD 1080p: HD formatda yuqori sifatli tasvirlar, uy kinoteatri, taqdimotlar va o‘yinlar uchun ajoyib. Wi-Fi 6 ulanishi: Simsiz ulanish imkoniyati bilan smartfon, planshet va noutbukdan kontentni oson uzatish. Kichik va ixcham dizayn: Proyektorni uyda yoki sayohatda qulay olib yurish mumkin. Uzoq muddatli lampa: 20 000 soatlik xizmat muddati bilan uzoq vaqt foydalanish mumkin. ",
+    price: 357000,
+    image: "https://100k.website.yandexcloud.net/resized/1000x1000/products/images/Drmkd4a4fPwjG9PZoshgHARw9Np7nBhtdck9mK09.jpg.webp",
+    flowLink: "https://100k.uz/oqim/688169"
   }
 ]
